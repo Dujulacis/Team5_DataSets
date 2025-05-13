@@ -5,3 +5,6 @@ Darba izpildei studentu komandai ir nepieciešams izvēlēties datu kopu un izma
 
 ## Saite uz Word dokumentu:
 https://docs.google.com/document/d/1F9ef-NGtAsyd3p-crhUNN5eaFEhK49lX/edit 
+
+## Izmantotā datu kopa:
+https://archive.ics.uci.edu/dataset/45/heart+disease
